@@ -1,16 +1,16 @@
-# 🚧 README em construção 🚧
+# All for One (MySQL)
 
-<!-- Olá, Tryber!
+## Introduction
+This project was aimed at improving introductory and intermediate SQL commands skills. All queries apply to the Northwind database present in this repository.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Main used technologies:
+MySQL
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Instructions to utilize the application
+To use the here-developed SQL commands, you must have MySQL installed. To restore the Northwind database, you must run the query in the raw file (`northwind.sql`) uploaded to this repository.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## Commit history
+You can check the entire commit history to see how the project was developed step by step.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Contact
+You can get in touch with me at pedronerislc@gmail.com or by <a href="https://www.linkedin.com/in/pedro-nl-caldas/">Linkedin</a>.
