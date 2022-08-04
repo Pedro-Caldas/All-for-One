@@ -1,7 +1,7 @@
 # All for One (MySQL)
 
 ## Introduction
-This project was aimed at improving introductory and intermediate SQL commands skills. All queries apply to the Northwind database present in this repository.
+This project aimed to improve introductory and intermediate SQL command skills by proposing a series of challenges with different levels of complexity. All queries apply to the Northwind database present in this repository.
 
 ## Main used technologies:
 MySQL
